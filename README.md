@@ -11,6 +11,40 @@ A comprehensive e-commerce frontend application built with React 19, Vite, and T
 
 ---
 
+## 📦 Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/m-sharique-sabir/product-app.git
+   cd product-app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Visit `http://localhost:5173` to view the application
+
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- npm or yarn package manager
+
+### Additional Scripts
+
+- `npm run build` - Build the project for production
+- `npm run preview` - Preview the production build locally
+- `npm run lint` - Lint the codebase
+
 ## 📋 Executive Summary
 
 **Application Type**: E-commerce Frontend SPA  
