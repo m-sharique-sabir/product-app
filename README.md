@@ -7,7 +7,7 @@ A comprehensive e-commerce frontend application built with React 19, Vite, and T
 - **Developer Name**: Mohammad Sharique
 - **Developer Email**: mohammadsharique2409950@gmail.com
 - **Developer WhatsApp**: +92 339 2409950
-- ![Mohammad Sharique](./m-sharique-sabir.jpeg)
+
 
 ---
 
