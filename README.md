@@ -2,6 +2,15 @@
 
 A comprehensive e-commerce frontend application built with React 19, Vite, and Tailwind CSS v4. This report provides a detailed QA analysis of all features, functions, and potential issues identified during code review.
 
+## 👨‍💻 Developer Information
+
+- **Developer Name**: Mohammad Sharique
+- **Developer Email**: mohammadsharique2409950@gmail.com
+- **Developer WhatsApp**: +92 339 2409950
+- **Developer Image**: ![Mohammad Sharique](./m-sharique-sabir.jpeg)
+
+---
+
 ## 📋 Executive Summary
 
 **Application Type**: E-commerce Frontend SPA  
