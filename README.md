@@ -72,6 +72,16 @@ Open **http://localhost:5173** and explore the full application.
 - **Account deletion** with confirmation dialog
 - **Protected routes** — cart and profile require authentication
 
+### About Page
+
+![About Page](screenshots/about.png)
+
+- **Developer profile** — full stack developer info with profile image
+- **Services offered** — web development, UI/UX design, mobile apps
+- **Experience & skills** — technologies, tools, and expertise
+- **Contact information** — email, WhatsApp, LinkedIn links
+- **Quick links navigation** — easy access to all app sections
+
 ### Design & Experience
 - **Dark/Light theme toggle** — switch with one click, persists across sessions
 - **Fully responsive** — looks perfect on desktop, tablet, and mobile
