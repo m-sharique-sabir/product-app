@@ -121,22 +121,6 @@ User Action → React Component → Context/Service → localStorage → UI Upda
 
 ---
 
-## Screenshots
-
-| Page | Screenshot | Description |
-|---|---|---|
-| **Homepage** | ![Home](screenshots/home.png) | Hero carousel, category grid, featured products |
-| **Shop** | ![Shop](screenshots/shop.png) | Full product catalog with sidebar filters |
-| **Product Detail** | ![Product Detail](screenshots/product-detail.png) | Single product view with quantity selector |
-| **Cart** | ![Cart](screenshots/cart-with-items.png) | Cart items, order summary, checkout |
-| **Cart Modal** | ![Cart Delete Modal](screenshots/cart-delete-modal.png) | Custom delete confirmation modal with product preview |
-| **Profile** | ![Profile](screenshots/profile.png) | Edit profile, change password, delete account |
-| **About** | ![About](screenshots/about.png) | Developer profile, services, experience, contact |
-| **Login** | ![Login](screenshots/login.png) | Email/password form with social login stubs |
-| **Signup** | ![Signup](screenshots/signup.png) | Registration form with validation |
-
----
-
 ## Quick Start
 
 ### Prerequisites
