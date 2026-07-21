@@ -11,8 +11,8 @@ A fully-featured, production-grade e-commerce frontend built with **React 19**, 
 > **Clone, install, and run in 3 steps:**
 
 ```bash
-git clone https://github.com/m-sharique-sabir/product-app.git
-cd product-app
+git clone https://github.com/m-sharique-sabir/E-Commerce-Platforms-System-Design.git
+cd E-Commerce-Platforms-System-Design
 npm install && npm run dev
 ```
 
@@ -130,8 +130,8 @@ User Action → React Component → Context/Service → localStorage → UI Upda
 ### Installation
 
 ```bash
-git clone https://github.com/m-sharique-sabir/product-app.git
-cd product-app
+git clone https://github.com/m-sharique-sabir/E-Commerce-Platforms-System-Design.git
+cd E-Commerce-Platforms-System-Design
 npm install
 npm run dev
 ```
