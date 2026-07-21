@@ -8,6 +8,7 @@ import ProductDetail from './pages/ProductDetail';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Profile from './pages/Profile';
+import About from './pages/About';
 import ProtectedRoute from './components/ProtectedRoute';
 import { CartProvider } from './context/CartContext';
 import { ThemeProvider } from './context/ThemeContext';
@@ -30,7 +31,8 @@ const Layout = () => {
         <Route path="/product/:id" element={<ProductDetail />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-        
+        <Route path="/about" element={<About />} />
+
         {/* Protected Routes */}
         <Route element={<ProtectedRoute />}>
           <Route path="/cart" element={<Cart />} />
