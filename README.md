@@ -165,9 +165,3 @@ React &middot; Next.js &middot; Laravel &middot; MERN Stack Specialist
 - Email: mohammadsharique2409950@gmail.com
 - LinkedIn: [linkedin.com/in/m-sharique-sabir](https://www.linkedin.com/in/m-sharique-sabir/)
 - WhatsApp: +92 339 2409950
-
----
-
-## License
-
-MIT License — free to use, modify, and distribute.
